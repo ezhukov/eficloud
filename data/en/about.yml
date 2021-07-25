@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Why Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're unbiased
+    content : We do not partner with public cloud providers for money.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : We help customers choose the right public cloud provider for the case.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Genius
+    content : We make sure it is the most (cost) efficient option.
