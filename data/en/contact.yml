@@ -8,13 +8,13 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Helsinki, Finland"
+      info : "Espoo, Finland"
       
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : https://formspree.io/f/xgernwvn
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"
