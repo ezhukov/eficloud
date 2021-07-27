@@ -3,8 +3,8 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall-stucco.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall-stucco.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Understanding the whole stack"
+  content : "We deep dive into your application logic and requirements to come up with best in class infrastructure with a suitable cloud provider at optimal cost."
   button:
     enable : true
     label : "Reach Out"

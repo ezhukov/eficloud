@@ -7,21 +7,21 @@ feature:
   content : "In the era of digitalization and cloudification it is hard to pick a cloud provider. It is even harder to pick a consultancy firm to help with all of that. Of course you can pick a cloud provider first and then find the best matching consultants. We do not recommend going this path. Our approach is to focus on the application first, gather usage data, perform certain amount and type of testing. Only then we can recommend, design and help implement the infrastructure."
   feature_item : 
       # feature item loop
-    - title : Efficiency focused
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Application first
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : It is hugely important to asses the application resource consumption and utilization before considering any public cloud provider.
       
       # feature item loop
-    - title : Cost optimization focused
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Cloud infrastructure
+      icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
+      content : Fit for purpose. No bloat, no overselling because of cloud vendor paid partnerships.
 
       # feature item loop
-    - title : Automation focused
+    - title : Automation
       icon : ti-reload # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Flawless and regular application and infrastructure updates as often as needed, as easy as it can be.
       
       # feature item loop
-    - title : Continuous integration focused
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Cost optimization
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Observe, measure and reconfigure the whole solution based on production usage over time.
