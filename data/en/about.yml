@@ -1,16 +1,18 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Why Us
+  title : easy choice
   about_item :
-  - icon : ti-alert # themify icon pack : https://themify.me/themify-icons
-    title : We're Unbiased
-    content : We do not partner with public cloud providers for money.
+  - icon :  ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+    title : Present Day
+    content : You're facing the uncertanty of how to move forward with this new modern cloudification thing. You're tired calculating or approving the budget.
 
-  - icon : ti-shine # themify icon pack : https://themify.me/themify-icons
-    title : We're Competent
-    content : We help customers choose the right public cloud provider for the case.
+  - icon : ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+    title : The Choice
+    content : Choosing a cloud provider and moving your app to the cloud doesn't have to be a struggle. Depending on what you're trying to achieve as an orginization we can help you build the right platform.
 
-  - icon : ti-book # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : We make sure it is the most (cost) efficient option.
+  - icon : ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+    title : Made Unbiased
+    content : We do not partner with public cloud providers for money. We help customers choose the right one for their case. We do careful cost-benefit evaluation.
+      #We make sure it is the most (cost) efficient option.
+
