@@ -3,15 +3,15 @@ about:
   enable : true
   title : easy choice
   about_item :
-  - icon :  ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-time # themify icon pack : https://themify.me/themify-icons
     title : Present Day
     content : You're facing the uncertanty of how to move forward with this new modern cloudification thing. You're tired calculating or approving the budget.
 
-  - icon : ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-help # themify icon pack : https://themify.me/themify-icons
     title : The Choice
     content : Choosing a cloud provider and moving your app to the cloud doesn't have to be a struggle. Depending on what you're trying to achieve as an orginization we can help you build the right platform.
 
-  - icon : ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-hand-point-down # themify icon pack : https://themify.me/themify-icons
     title : Made Unbiased
     content : We do not partner with public cloud providers for money. We help customers choose the right one for their case. We do careful cost-benefit evaluation.
       #We make sure it is the most (cost) efficient option.
