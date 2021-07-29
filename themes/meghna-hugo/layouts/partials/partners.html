@@ -22,7 +22,7 @@
         <div class="partner">
           <div class="partner-photo">
             {{"<!-- partner photo -->" | safeHTML}}
-		<a href="{{ .url | relLangURL }}">
+		<a href="{{ .url | absURL }}">
 			<img class="img-fluid lozad" data-src="{{ .image | absURL }}" alt="{{ .name }}">
 		</a>
           </div>

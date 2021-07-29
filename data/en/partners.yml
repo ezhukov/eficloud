@@ -1,6 +1,6 @@
 ############################### partners ############################
 partners:
-  enable : false
+  enable : true
   title : Our Partners
   partner :
     - name : Eficode
