@@ -4,19 +4,19 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : Not another DevOps company
-  content : "Our approach is to focus on the application first, gather usage data, perform certain amount and type of testing. Only then we can recommend a cloud, plus design and help implement the infrastructure."
+  content : "Our approach is to focus on the application first, gather usage data, perform a certain amount and type of testing. Only then we can recommend a cloud, plus design and help implement the infrastructure."
     #In the era of digitalization and cloudification it is hard to pick a cloud provider. It is even harder to pick a consultancy firm to help with all of that. Of course you can pick a cloud provider first and then find the best matching consultants. We do not recommend going this path. 
     
   feature_item : 
       # feature item loop
     - title : Application first
       icon : ti-user # themify icon pack : https://themify.me/themify-icons
-      content : It is hugely important to asses the application resource consumption and utilization before considering any public cloud.
+      content : It is hugely important to assess the application resource consumption and utilization before considering any public cloud.
       
       # feature item loop
     - title : Cloud infrastructure
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-      content : Fit for purpose. No bloat, no overselling because of cloud vendor paid partnerships.
+      content : Fit for purpose. No bloat, no upsell because of cloud vendor paid partnerships.
 
       # feature item loop
     - title : Automation
