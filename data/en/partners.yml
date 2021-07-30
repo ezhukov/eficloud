@@ -5,8 +5,8 @@ partners:
   partner :
     - name : Eficode
       url : https://eficode.fi
-      image : images/partners/eficode134x100.png
+      image : images/partners/eficode.png
         
     - name : Polar Squad
       url : https://polarsquad.fi
-      image : images/partners/polarsquad134x100.png
+      image : images/partners/polarsquad.png
