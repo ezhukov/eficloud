@@ -1022,16 +1022,22 @@ a:hover {
   Our Partners
 ==================================================================*/
 .partner {
-  margin-bottom: 10px;
 }
 
 .partner-photo img {
+  width: 100%;
+  height: auto;
   transition: all 0.4s ease 0s;
 }
 
 .partner-photo {
-  overflow: hidden;
-  position: relative;
+  margin: 2px;
+  width: 150px;
+}
+
+.partner-photo:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 /*=================================================================
