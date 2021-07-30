@@ -3,12 +3,12 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Please contact us via the form on the right.
+  content : "Please contact us via the following form:"
 
   # Contact details
-  contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Espoo, Finland"
+  #  contact_list:
+  #    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+  #      info : "Espoo, Finland"
       
 
   # Contact form

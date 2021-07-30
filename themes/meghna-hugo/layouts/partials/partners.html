@@ -18,7 +18,8 @@
 
       {{ range .partner}}
       {{"<!-- partner -->" | safeHTML}}
-      <div class="col-sm-2 col-6 wow fadeInDown" data-wow-duration="500ms">
+      <div class="row justify-content-md-center">
+      <div class="col-md-auto wow fadeInDown" data-wow-duration="500ms">
         <div class="partner">
           <div class="partner-photo">
             {{"<!-- partner photo -->" | safeHTML}}
@@ -27,6 +28,7 @@
 		</a>
           </div>
         </div>
+      </div>
       </div>
       {{"<!-- end partner -->" | safeHTML}}
       {{ end }}
