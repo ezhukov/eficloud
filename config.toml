@@ -57,10 +57,10 @@ weight = 1
 #url = "#portfolio"
 #weight = 3
 
-#[[Languages.en.menu.main]]
-#name = "team"
-#url = "#team"
-#weight = 4
+[[Languages.en.menu.main]]
+name = "partners"
+url = "#partners"
+weight = 2
 
 #[[Languages.en.menu.main]]
 #name = "pricing"
@@ -75,7 +75,7 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 4
+weight = 3
 
 #[[Languages.en.menu.main]]
 #name = "themefisher"
