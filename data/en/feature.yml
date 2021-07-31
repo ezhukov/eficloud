@@ -26,4 +26,4 @@ feature:
       # feature item loop
     - title : Cost optimization
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
-      content : Observe, measure and reconfigure the whole solution based on production usage over time.
+      content : Observe, measure and reconfigure the whole solution based on production usage data.
