@@ -132,9 +132,9 @@ link = "https://www.linkedin.com/company/eficloud"
 #icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
 #link = "#"
 
-#[[params.social]]
-#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
+[[params.social]]
+icon = "ti-map" # themify icon pack : https://themify.me/themify-icons
+link = "https://g.page/r/CejzskDlM7EaEAE"
 
 
 ################################ English Language ########################
