@@ -1025,14 +1025,12 @@ a:hover {
 }
 
 .partner-photo img {
-  width: 100%;
-  height: auto;
+  height: 120px;
   transition: all 0.4s ease 0s;
 }
 
 .partner-photo {
   margin: 15px;
-  width: 150px;
 }
 
 .partner-photo:hover img {

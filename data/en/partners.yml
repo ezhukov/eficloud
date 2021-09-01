@@ -10,3 +10,7 @@ partners:
     - name : Polar Squad
       url : https://polarsquad.fi
       image : images/partners/polarsquad.png
+
+    - name : Wunderdog
+      url : https://wunderdog.fi
+      image : images/partners/wunderdog.png
