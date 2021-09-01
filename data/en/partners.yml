@@ -14,3 +14,7 @@ partners:
     - name : Wunderdog
       url : https://wunderdog.fi
       image : images/partners/wunderdog.png
+
+    - name : Coventures
+      url : https://coventures.fi
+      image : images/partners/coventures.png
