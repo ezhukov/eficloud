@@ -4,8 +4,8 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : Not another DevOps company
-  content : "Our approach is to focus on your tech stack and gather the data like CPU, memory and storage consumption. We then use this data to pick a cloud provider. For example we use Azure Retail Prices API and AWS Price List API to programmatically find the best option."
-    
+  content : "Our approach is to focus on your tech stack and gather the data like CPU, memory and storage consumption. We then use this data to pick the most suitable services from a cloud provider. For example we use Azure Retail Prices API and AWS Price List API to programmatically find the best option."
+
   feature_item : 
       # feature item loop
     - title : Application First
