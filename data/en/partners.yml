@@ -3,14 +3,6 @@ partners:
   enable : true
   title : Our Partners
   partner :
-    - name : Polar Squad
-      url : https://polarsquad.fi
-      image : images/partners/polarsquad.png
-
-    - name : Wunderdog
-      url : https://wunderdog.fi
-      image : images/partners/wunderdog.png
-
     - name : Coventures
       url : https://coventures.io
       image : images/partners/coventures.png
