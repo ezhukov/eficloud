@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : "Please contact us by sending email to hello@eficloud.fi or via this form:"
+  content : "Please contact us by sending email via the following form:"
 
   # Contact details
   #  contact_list:
